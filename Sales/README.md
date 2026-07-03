@@ -170,29 +170,41 @@ Final Recommendation
 
 ---
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-> Add screenshots of the dashboard and charts here.
+### 📊 Marketing Dashboard
 
-Example:
+![Recommendation](Images/Dashboard.png)
 
-```
-<img width="281" height="161" alt="image" src="https://github.com/user-attachments/assets/7a125219-dab0-4200-8b70-05862f860751" />
+---
 
+### 💰 Total Sales by Channel
 
-<img width="252" height="186" alt="image" src="https://github.com/user-attachments/assets/db10b624-e333-45ca-ac36-d473cabcc09b" />
+![Channel Sales](Images/Channel_sales.png)
 
+---
 
-<img width="1101" height="742" alt="image" src="https://github.com/user-attachments/assets/9cec4e55-34a0-42ab-86f5-e637e18acbce" />
+### 📈 Campaign Sales Comparison
 
+![Campaign Sales](Images/Campaign_sales.png)
 
-<img width="1445" height="767" alt="image" src="https://github.com/user-attachments/assets/7967f9f9-f54b-4ddd-b3fa-d6587dc9b36d" />
+---
 
+### 👥 Customer Conversion Analysis
 
-<img width="1363" height="622" alt="image" src="https://github.com/user-attachments/assets/3e85dd80-7bed-47da-91cb-5423a3f67c79" />
+![Customer Conversion](Images/Convert_customer.png)
 
+---
 
-<img width="1525" height="772" alt="image" src="https://github.com/user-attachments/assets/d5833231-8587-44a7-8303-8528e3171f41" />
+### ⏱️ Average Time Spent on Site
+
+![Average Time on Site](Images/Average_time_on_site.png)
+
+---
+
+### 💵 Sum of Sales
+
+![Sum of Sales](Images/Sum_of_sales.png)
 
 ```
 
